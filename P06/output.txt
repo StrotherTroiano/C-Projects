@@ -1,0 +1,42 @@
+P05 - Strother Troiano
+
+Enter the hourly rate between $10.00 and $15.00:12.50
+
+Enter the number of hours worked between 1 and 50: 40
+
+
+Hourly Rate:    12.50
+Hours Worked:   40
+Gross Pay:      500.00
+FICA Tax:       30.00 at 0.06
+Federal Tax:    75.00 at 0.15
+State Tax:      25.00 at 0.05
+Union Dues:     10.00
+Net Pay:        360.00
+Net Hourly:     9.00
+
+Thank you!
+
+Press any key to continue . . .
+
+P05 - Strother Troiano
+
+Enter the hourly rate between $10.00 and $15.00:15.00
+
+Enter the number of hours worked between 1 and 50: 45
+
+
+Hourly Rate:    15.00
+Hours Worked:   45
+Gross Pay:      712.50
+FICA Tax:       42.75 at 0.06
+Federal Tax:    106.88 at 0.15
+State Tax:      35.63 at 0.05
+Union Dues:     10.00
+Net Pay:        517.25
+Net Hourly:     11.49
+
+Thank you!
+
+Press any key to continue . . .
+
